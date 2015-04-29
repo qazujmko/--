@@ -29,3 +29,4 @@ var elems=document.querySelectorAll('*[class*="test"]');
 if ( is_admin() ) {  
     remove_action( 'init', '_wp_admin_bar_init' );  
 }
+edition1.00
